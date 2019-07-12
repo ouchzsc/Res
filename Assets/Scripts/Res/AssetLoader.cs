@@ -66,7 +66,7 @@ namespace Res
         private void OnAssetLoaded(object obj)
         {
             Asset = obj;
-            foreach (var customer in _loaderUsers)
+            foreach (var customer in _loaderUsers.ToList())
             {
                 customer.OnAssetLoaded(Asset);
             }
@@ -102,6 +102,7 @@ namespace Res
             else
             {
                 Debug.LogError($"load asset {assetName} failed");
+                
                 loadDone(null);
             }
         }
