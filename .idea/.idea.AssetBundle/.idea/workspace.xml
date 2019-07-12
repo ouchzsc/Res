@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f12b2574-1a87-4496-b808-cfbcfbf72bc5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ABMgr.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding>
+                <marker date="1562668123896" expanded="true" signature="6:109" ph="..." />
+                <marker date="1562668123896" expanded="true" signature="145:2223" ph="{...}" />
+                <marker date="1562668123896" expanded="true" signature="217:319" ph="{...}" />
+                <marker date="1562668123896" expanded="true" signature="377:389" ph="{...}" />
+                <marker date="1562668123896" expanded="true" signature="519:769" ph="{...}" />
+                <marker date="1562668123896" expanded="true" signature="613:760" ph="{...}" />
+                <marker date="1562668123896" expanded="true" signature="821:1061" ph="{...}" />
+                <marker date="1562668123896" expanded="true" signature="1154:2221" ph="{...}" />
+                <marker date="1562668123896" expanded="true" signature="1341:1580" ph="{...}" />
+                <marker date="1562668123896" expanded="true" signature="1883:1987" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12D5C418-62C0-4C38-AA4B-BAE97D375F36/36/fd484ced/AssetBundleManifest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="73" column="27" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+              <folding>
+                <marker date="1562666884970" expanded="true" signature="0:335" ph="/* Decompiled with JetBrains decompiler ... */" />
+                <marker date="1562666884970" expanded="false" signature="343:403" ph="..." />
+                <marker date="1562666884970" expanded="true" signature="426:2875" ph="{...}" />
+                <marker date="1562666884970" expanded="true" signature="431:530" ph="///   &lt;para&gt;Manifest for all the AssetBundles in the build.&lt;/para&gt; ... " />
+                <marker date="1562666884970" expanded="true" signature="643:2873" ph="{...}" />
+                <marker date="1562666884970" expanded="true" signature="681:693" ph="{...}" />
+                <marker date="1562666884970" expanded="true" signature="699:888" ph="///   &lt;para&gt;Get all the AssetBundles in the manifest.&lt;/para&gt; ... " />
+                <marker date="1562666884970" expanded="true" signature="1033:1235" ph="///   &lt;para&gt;Get all the AssetBundles with variant in the manifest.&lt;/para&gt; ... " />
+                <marker date="1562666884970" expanded="true" signature="1402:1668" ph="///   &lt;para&gt;Get the hash for the given AssetBundle.&lt;/para&gt; ... " />
+                <marker date="1562666884970" expanded="true" signature="1771:1886" ph="{...}" />
+                <marker date="1562666884970" expanded="true" signature="1892:2202" ph="///   &lt;para&gt;Get the direct dependent AssetBundles for the given AssetBundle.&lt;/para&gt; ... " />
+                <marker date="1562666884970" expanded="true" signature="2375:2564" ph="///   &lt;para&gt;Get all the dependent AssetBundles for the given AssetBundle.&lt;/para&gt; ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>StreamingAssets</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12D5C418-62C0-4C38-AA4B-BAE97D375F36/8d/4f3518d3/AssetBundle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12D5C418-62C0-4C38-AA4B-BAE97D375F36/48/70281a5b/AssetBundleRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12D5C418-62C0-4C38-AA4B-BAE97D375F36/36/fd484ced/AssetBundleManifest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ABMgr.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ABMgr.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="437" />
+    <option name="y" value="178" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="437" y="178" width="1440" height="780" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AssetBundles/StandaloneWindows/StandaloneWindows.manifest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12D5C418-62C0-4C38-AA4B-BAE97D375F36/8d/4f3518d3/AssetBundle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="382" column="30" selection-start-line="382" selection-start-column="30" selection-end-line="382" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12D5C418-62C0-4C38-AA4B-BAE97D375F36/48/70281a5b/AssetBundleRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/StreamingAssets/StandaloneWindows.manifest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12D5C418-62C0-4C38-AA4B-BAE97D375F36/36/fd484ced/AssetBundleManifest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="73" column="27" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+          <folding>
+            <marker date="1562666884970" expanded="true" signature="0:335" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1562666884970" expanded="false" signature="343:403" ph="..." />
+            <marker date="1562666884970" expanded="true" signature="426:2875" ph="{...}" />
+            <marker date="1562666884970" expanded="true" signature="431:530" ph="///   &lt;para&gt;Manifest for all the AssetBundles in the build.&lt;/para&gt; ... " />
+            <marker date="1562666884970" expanded="true" signature="643:2873" ph="{...}" />
+            <marker date="1562666884970" expanded="true" signature="681:693" ph="{...}" />
+            <marker date="1562666884970" expanded="true" signature="699:888" ph="///   &lt;para&gt;Get all the AssetBundles in the manifest.&lt;/para&gt; ... " />
+            <marker date="1562666884970" expanded="true" signature="1033:1235" ph="///   &lt;para&gt;Get all the AssetBundles with variant in the manifest.&lt;/para&gt; ... " />
+            <marker date="1562666884970" expanded="true" signature="1402:1668" ph="///   &lt;para&gt;Get the hash for the given AssetBundle.&lt;/para&gt; ... " />
+            <marker date="1562666884970" expanded="true" signature="1771:1886" ph="{...}" />
+            <marker date="1562666884970" expanded="true" signature="1892:2202" ph="///   &lt;para&gt;Get the direct dependent AssetBundles for the given AssetBundle.&lt;/para&gt; ... " />
+            <marker date="1562666884970" expanded="true" signature="2375:2564" ph="///   &lt;para&gt;Get all the dependent AssetBundles for the given AssetBundle.&lt;/para&gt; ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ABMgr.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <marker date="1562668123896" expanded="true" signature="6:109" ph="..." />
+            <marker date="1562668123896" expanded="true" signature="145:2223" ph="{...}" />
+            <marker date="1562668123896" expanded="true" signature="217:319" ph="{...}" />
+            <marker date="1562668123896" expanded="true" signature="377:389" ph="{...}" />
+            <marker date="1562668123896" expanded="true" signature="519:769" ph="{...}" />
+            <marker date="1562668123896" expanded="true" signature="613:760" ph="{...}" />
+            <marker date="1562668123896" expanded="true" signature="821:1061" ph="{...}" />
+            <marker date="1562668123896" expanded="true" signature="1154:2221" ph="{...}" />
+            <marker date="1562668123896" expanded="true" signature="1341:1580" ph="{...}" />
+            <marker date="1562668123896" expanded="true" signature="1883:1987" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

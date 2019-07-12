@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\admin\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\admin\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_AssetBundleLoader.-1433979682.00" t="ExcludeRecursive" />
+    <e p="D:\Doc\AssetBundleLoader" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="AssetBundleLoader.sln" t="IncludeFlat" />
+      <e p="Assets" t="Include">
+        <e p="AssetBundleBrowser" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AssetBundleBrowserMain.cs" t="Include" />
+            <e p="AssetBundleBuildTab.cs" t="Include" />
+            <e p="AssetBundleDataSource" t="Include">
+              <e p="ABDataSource.cs" t="Include" />
+              <e p="ABDataSourceProvider.cs" t="Include" />
+              <e p="AssetDatabaseABDataSource.cs" t="Include" />
+            </e>
+            <e p="AssetBundleManageTab.cs" t="Include" />
+            <e p="AssetBundleModel" t="Include">
+              <e p="ABModel.cs" t="Include" />
+              <e p="ABModelAssetInfo.cs" t="Include" />
+              <e p="ABModelBundleInfo.cs" t="Include" />
+            </e>
+            <e p="AssetBundleTree.cs" t="Include" />
+            <e p="AssetListTree.cs" t="Include" />
+            <e p="BundleDetailList.cs" t="Include" />
+            <e p="InspectTab" t="Include">
+              <e p="AssetBundleInspectTab.cs" t="Include" />
+              <e p="AssetBundleRecord.cs" t="Include" />
+              <e p="InspectSingleBundle.cs" t="Include" />
+              <e p="InspectTreeView.cs" t="Include" />
+            </e>
+            <e p="MessageList.cs" t="Include" />
+            <e p="MessageSystem.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AssetInfoScriptableObject.cs" t="Include" />
+          <e p="ConsoleBoard.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="AssetInfoGenerator.cs" t="Include" />
+          </e>
+          <e p="Lib" t="Include">
+            <e p="Stream.cs" t="Include" />
+            <e p="StreamMap.cs" t="Include" />
+          </e>
+          <e p="Res" t="Include">
+            <e p="ABMgr.cs" t="Include" />
+            <e p="AssetLoader.cs" t="Include" />
+            <e p="BundleLoader.cs" t="Include" />
+            <e p="User.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

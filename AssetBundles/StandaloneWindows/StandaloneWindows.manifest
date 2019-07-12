@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2643162575
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bd_rpgpp_lt_mat_a
+      Dependencies:
+        Dependency_0: bd_rpgpp_lt_tex_a
+    Info_1:
+      Name: bd_rpgpp_lt_tex_a
+      Dependencies: {}
+    Info_2:
+      Name: bd_rpgpp_lt_tree_01
+      Dependencies:
+        Dependency_0: bd_rpgpp_lt_mat_a
+    Info_3:
+      Name: bd_rpgpp_lt_tree_02
+      Dependencies:
+        Dependency_0: bd_rpgpp_lt_mat_a
+    Info_4:
+      Name: rpgpp_lt_plant_01
+      Dependencies:
+        Dependency_0: bd_rpgpp_lt_mat_a

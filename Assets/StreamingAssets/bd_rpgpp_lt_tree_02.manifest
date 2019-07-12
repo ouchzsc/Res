@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3983210571
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c86b0f20ea3193255b9857c314874011
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce00b96eb05100871f39954dc67941ec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Trees/rpgpp_lt_tree_02.prefab
+Dependencies:
+- D:/Doc/AssetBundleLoader/AssetBundles/StandaloneWindows/bd_rpgpp_lt_mat_a
